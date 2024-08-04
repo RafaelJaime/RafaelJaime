@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil.👋 Soy Rafael Jaime Moreno. 🎉
-<p>Desarrollador </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelJaime&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark" />
+<p>Desarrollador </p>
 
 ### Estudios
 <p>Técnico en Sistemas Microinformáticos y Redes. <a href="http://www.ies-mardecadiz.com/">ies Mar de Cádiz</a>.🌴</p>
