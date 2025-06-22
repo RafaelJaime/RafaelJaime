@@ -5,7 +5,7 @@
 ### Estudios
 <p>Técnico en Sistemas Microinformáticos y Redes. <a href="http://www.ies-mardecadiz.com/">ies Mar de Cádiz</a>.🌴</p>
 <p>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma. <a href="https://cadiz.salesianos.edu/">Salesianos Cádiz</a>.💻</p>
-<!-- <p>Actualmente estudiando Curso de Especialización en Inteligencia Artificial y Big Data <a href="https://www.iesfernandoaguilar.es/">Fernando Aguilar Quignon</a>.🧠</p> -->
+<p>Técnico Especialista en Inteligencia Artificial y Big Data. <a href="https://iesrafaelalberti.es/">IES Rafael Alberti</a>.💻</p>
 
 ### Contacta conmigo
 [![Linkedin: Rafael Jaime Moreno](https://img.shields.io/badge/-RafaelJaimeMoreno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-jaime-moreno-665112227/)](https://www.linkedin.com/in/rafael-jaime-moreno-665112227)
